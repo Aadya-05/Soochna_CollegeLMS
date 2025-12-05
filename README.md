@@ -2,6 +2,8 @@
 
 Complete full-stack CRUD web application with dedicated dashboards for Faculty, Admin, and Students. Built with **Node.js + Express**, **PostgreSQL**, **JWT authentication**, and a **Vite + React + Tailwind** frontend.
 
+HOSTED ON: https://soochna.onrender.com/
+
 ## Project Structure
 
 ```
