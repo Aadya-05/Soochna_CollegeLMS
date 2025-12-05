@@ -1,6 +1,6 @@
-# College Management Web Application
+Soochna is College Database Management Web Application
 
-Complete full-stack CRUD web application with dedicated dashboards for Faculty, Admin, and Students. Built with **Node.js + Express**, **PostgreSQL**, **JWT authentication**, and a **Vite + React + Tailwind** frontend.
+Complete full-stack CRUD web application with dedicated dashboards for Faculty, Admin, and Students. Built with **Node.js + Express**, **PostgreSQL**, **JWT authentication**, and a **Vite + React + Tailwind** frontend. It is also powered with Gemini's Text-to-SQL chatbot for natural language data retrieval and easy access.
 
 HOSTED ON: https://soochna.onrender.com/
 
